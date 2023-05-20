@@ -2,7 +2,7 @@
 
 echo "Selamat Datang ";
 
-$seseorang='Tugas Kelompok 2 : Anggota ';
+$seseorang='Tugas Kelompok 2 : Anggota';
 
 echo $seseorang;
 
